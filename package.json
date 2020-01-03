@@ -1,0 +1,24 @@
+{
+  "name": "frontend_interview_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "production": "parcel build index.html --public-url ./"
+  },
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "highcharts": "^8.0.0",
+    "highcharts-react-official": "^2.2.2",
+    "jshint": "^2.11.0-rc1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "cssnano": "^4.1.10",
+    "sass": "^1.24.0"
+  }
+}

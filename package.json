@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bulma": "^0.8.0",
-    "highcharts": "^8.0.0",
+    "highcharts": "^8.1.1",
     "highcharts-react-official": "^2.2.2",
     "jshint": "^2.11.0-rc1",
     "react": "^16.12.0",
